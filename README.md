@@ -4,7 +4,7 @@ html.css.javascript
 Googlechrome、edge、Firefox
 #### 使い方
 以下のページを開き、適当な数を入力しヒントを元に当てるゲームです。
-javascriptコードの $('.prev').hide();
+javascriptコードの ‛let randomNumber = Math.floor(Math.random() * ○) + 1;‛
 ○の部分をお好きな数にすることで数を変えられます！
 
 #### 利用条件
